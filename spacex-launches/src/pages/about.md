@@ -1,5 +1,5 @@
 ---
-title: 'Contenido'
+title: 'About'
 layout: '../layouts/Layout.astro'
 ---
 
